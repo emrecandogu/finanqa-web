@@ -27,7 +27,7 @@ const Loader = () => {
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-white z-50">
       <div className="animate-breathing">
-        <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
+        <h1 className="text-4xl font-bold text-finanqa-green-1">
           Finanqa
         </h1>
       </div>
