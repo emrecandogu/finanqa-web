@@ -4,6 +4,7 @@ import type { Metadata } from 'next';
 import { metadata as siteMeta } from '@/utils/metadata'; // ✅ BURASI eklendi
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import Loader from '@/components/Loader';
 
 const inter = Inter({ subsets: ['latin'], display: 'swap' });
 
@@ -22,6 +23,7 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body className={`${inter.className} bg-finanqa-cream min-h-screen flex flex-col`}>
+        <Loader />
         <Header />
         <main className="flex-grow">
           {children}

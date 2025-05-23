@@ -19,6 +19,15 @@ module.exports = {
       spacing: {
         '128': '32rem',
       },
+      keyframes: {
+        breathing: {
+          '0%, 100%': { transform: 'scale(1)' },
+          '50%': { transform: 'scale(1.1)' },
+        },
+      },
+      animation: {
+        'breathing': 'breathing 2s ease-in-out infinite',
+      },
     },
   },
   plugins: [],
