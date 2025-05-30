@@ -8,7 +8,7 @@ export default function CallToAction() {
       {/* Arka Plan Görseli */}
       <div className="absolute inset-0">
         <Image
-          src="/images/cta-bg.svg"
+          src="/images/anqa/cta_bg2.png"
           alt="Finanqa arka plan illüstrasyonu"
           fill
           className="object-cover brightness-50"
@@ -21,7 +21,7 @@ export default function CallToAction() {
             Finansal Yolculuğunuza Bugün Başlayın
           </h2>
           <p className="text-xl mb-8 text-white/90">
-            Finanqa’nın yapay zeka destekli platformuyla binlerce kullanıcı finansal kontrolü ele aldı. Siz de şimdi katılın!
+            Finanqa'nın yapay zeka destekli platformuyla binlerce kullanıcı finansal kontrolü ele aldı. Siz de şimdi katılın!
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <button

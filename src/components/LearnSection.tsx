@@ -7,8 +7,22 @@ export default function LearnSection() {
     <section className="section-padding bg-white" id="learn">
       <div className="container-width">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
+          {/* Görsel alanı */}
+          <div className="flex items-center justify-center h-[600px] hidden lg:block order-1">
+            <div className="relative w-[500px] h-auto">
+              <Image
+                src="/images/anqa/anqa_mobil_transparan.png"
+                alt="anqa öğreniyor"
+                width={500}
+                height={500}
+                className="object-contain mx-auto lg:scale-105"
+                priority
+              />
+            </div>
+          </div>
+
           {/* Metin alanı */}
-          <div className="space-y-6">
+          <div className="space-y-6 order-2">
             <h2 className="text-4xl font-bold">Finansal Okuryazarlığınızı Geliştirin</h2>
             <p className="text-lg text-finanqa-green-1/80">
               Finanqa'nın eğlenceli ve interaktif öğrenme platformuyla finans dünyasını keşfedin. 
@@ -54,18 +68,6 @@ export default function LearnSection() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
                 </svg>
               </Link>
-            </div>
-          </div>
-
-          {/* Görsel alanı */}
-          <div className="relative h-[600px] hidden lg:block">
-            <div className="absolute inset-0 bg-gradient-to-br from-finanqa-green-2/20 to-finanqa-light-green/20 rounded-3xl">
-              <Image
-                src="/images/learn-illustration.svg"
-                alt="Finanqa öğrenme platformu illüstrasyonu"
-                fill
-                className="object-contain p-8"
-              />
             </div>
           </div>
         </div>

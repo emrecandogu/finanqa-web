@@ -22,13 +22,14 @@ export default function Hero() {
           </div>
 
           {/* Görsel alanı */}
-          <div className="relative h-[500px] hidden lg:block">
-            <div className="absolute inset-0 bg-gradient-to-br from-finanqa-green-2/20 to-finanqa-light-green/20 rounded-3xl">
+          <div className="flex items-center justify-center h-full hidden lg:block">
+            <div className="relative w-[500px] h-auto">
               <Image
-                src="/images/hero-placeholder.svg"
-                alt="Finanqa mobil uygulama arayüzü görseli"
-                fill
-                className="object-cover rounded-3xl opacity-90"
+                src="/images/anqa/anqa_selamveren_transparan.png"
+                alt="Anqa - Finanqa AI Mascot welcoming users"
+                width={500}
+                height={500}
+                className="w-full h-auto"
                 priority
               />
             </div>

@@ -17,9 +17,9 @@ export default function Home() {
     <main className="min-h-screen pt-16">
       <Hero />
       <About />
-      <Features />
       <LearnSection />
       <MobileApp />
+      <Features />
       <Testimonials />
       <CallToAction />
     </main>
