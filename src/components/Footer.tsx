@@ -66,15 +66,15 @@ export default function Footer() {
             <ul className="space-y-2 text-white/80">
               <li className="flex items-center gap-2">
                 <FaEnvelope className="w-5 h-5" />
-                <a href="mailto:support@finanqa.com">support@finanqa.com</a>
+                <a href="mailto:support@finanqa.com">blabla@finanqa.com</a>
               </li>
               <li className="flex items-center gap-2">
                 <FaPhone className="w-5 h-5" />
-                <a href="tel:+18003462672">1-800-FINANQA</a>
+                <a href="tel:+18003462672">+90 555 555 55 55</a>
               </li>
               <li className="flex items-center gap-2">
                 <FaMapMarkerAlt className="w-5 h-5" />
-                <span>123 Finans Caddesi</span>
+                <span>Bornova / İzmir</span>
               </li>
               <li className="flex items-center gap-2">
                 <FaMapMarkerAlt className="w-5 h-5 opacity-0" />
@@ -104,6 +104,7 @@ export default function Footer() {
         {/* Telif hakkı */}
         <div className="border-t border-white/20 pt-8 text-center text-white/60">
           <p>&copy; {new Date().getFullYear()} Finanqa. Tüm hakları saklıdır.</p>
+          <p>DEMO SÜRÜM ED1.3</p>
         </div>
       </div>
     </footer>

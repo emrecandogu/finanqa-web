@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 
 export default function LearnLayout({
   children,
@@ -13,7 +12,6 @@ export default function LearnLayout({
       <main className="min-h-screen pt-16">
         {children}
       </main>
-      <Footer />
     </>
   );
 } 

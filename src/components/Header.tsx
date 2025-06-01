@@ -28,9 +28,11 @@ const Header = () => {
   return (
     <header
       className={`fixed top-0 w-full z-50 transition-all duration-300 ${
-        isScrolled
-          ? 'backdrop-blur-lg bg-white/70 shadow-lg'
-          : 'bg-transparent'
+        isMenuOpen
+          ? 'bg-white shadow-lg'
+          : isScrolled
+            ? 'backdrop-blur-lg bg-white/70 shadow-lg'
+            : 'bg-transparent'
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -53,7 +55,7 @@ const Header = () => {
                 {item.name}
               </Link>
             ))}
-            <button className="btn-primary">Uygulamayı İndir</button>
+            <Link href="/mobil-uygulama" className="btn-primary">Uygulamayı İndir</Link>
           </nav>
 
           {/* Mobil Menü Düğmesi */}
@@ -86,7 +88,7 @@ const Header = () => {
                   {item.name}
                 </Link>
               ))}
-              <button className="w-full btn-primary mt-4">Uygulamayı İndir</button>
+              <Link href="/mobil-uygulama" className="w-full btn-primary mt-4">Uygulamayı İndir</Link>
             </div>
           </nav>
         )}

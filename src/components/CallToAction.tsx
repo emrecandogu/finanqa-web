@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function CallToAction() {
   return (
@@ -24,16 +25,18 @@ export default function CallToAction() {
             Finanqa'nın yapay zeka destekli platformuyla binlerce kullanıcı finansal kontrolü ele aldı. Siz de şimdi katılın!
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <button
-              className="bg-finanqa-light-green text-finanqa-green-1 px-8 py-4 rounded-lg font-semibold hover:bg-opacity-90 transition-all duration-300"
+            <Link
+              href="/mobil-uygulama"
+              className="bg-finanqa-light-green text-finanqa-green-1 px-8 py-4 rounded-lg font-semibold transition-all duration-300 hover:bg-finanqa-green-1 hover:text-white"
             >
               Uygulamayı İndir
-            </button>
-            <button
+            </Link>
+            <Link
+              href="/iletisim"
               className="bg-white/10 text-white border-2 border-white px-8 py-4 rounded-lg font-semibold hover:bg-white/20 transition-all duration-300"
             >
               Daha Fazla Bilgi
-            </button>
+            </Link>
           </div>
         </div>
       </div>
