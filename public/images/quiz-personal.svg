@@ -1,0 +1,30 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8fffe"/>
+  <circle cx="200" cy="150" r="80" fill="#10b981" opacity="0.1"/>
+  <circle cx="200" cy="150" r="60" fill="#10b981" opacity="0.2"/>
+  <circle cx="200" cy="150" r="40" fill="#10b981" opacity="0.3"/>
+  
+  <!-- Wallet Icon -->
+  <rect x="160" y="120" width="80" height="60" rx="8" fill="#10b981"/>
+  <rect x="165" y="125" width="70" height="50" rx="4" fill="white"/>
+  
+  <!-- Cards in wallet -->
+  <rect x="170" y="135" width="60" height="8" rx="2" fill="#10b981" opacity="0.7"/>
+  <rect x="170" y="148" width="60" height="8" rx="2" fill="#10b981" opacity="0.5"/>
+  <rect x="170" y="161" width="60" height="8" rx="2" fill="#10b981" opacity="0.3"/>
+  
+  <!-- Money symbol -->
+  <circle cx="210" cy="155" r="12" fill="#10b981"/>
+  <text x="205" y="161" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">₺</text>
+  
+  <!-- Piggy bank elements -->
+  <circle cx="120" cy="100" r="8" fill="#10b981" opacity="0.6"/>
+  <circle cx="280" cy="200" r="10" fill="#10b981" opacity="0.4"/>
+  <circle cx="320" cy="120" r="6" fill="#10b981" opacity="0.8"/>
+  <circle cx="80" cy="220" r="7" fill="#10b981" opacity="0.5"/>
+  
+  <!-- Coins -->
+  <circle cx="140" cy="200" r="6" fill="#10b981"/>
+  <circle cx="260" cy="100" r="8" fill="#10b981"/>
+  <circle cx="340" cy="180" r="5" fill="#10b981"/>
+</svg> 

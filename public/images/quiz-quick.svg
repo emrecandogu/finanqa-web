@@ -1,0 +1,45 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8fffe"/>
+  <circle cx="200" cy="150" r="80" fill="#10b981" opacity="0.1"/>
+  <circle cx="200" cy="150" r="60" fill="#10b981" opacity="0.2"/>
+  <circle cx="200" cy="150" r="40" fill="#10b981" opacity="0.3"/>
+  
+  <!-- Stopwatch/Timer Icon -->
+  <circle cx="200" cy="150" r="35" fill="#10b981"/>
+  <circle cx="200" cy="150" r="30" fill="white"/>
+  <circle cx="200" cy="150" r="25" fill="#10b981" opacity="0.1"/>
+  
+  <!-- Clock hands -->
+  <line x1="200" y1="150" x2="200" y2="130" stroke="#10b981" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="150" x2="215" y2="150" stroke="#10b981" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Clock numbers -->
+  <circle cx="200" cy="125" r="2" fill="#10b981"/>
+  <circle cx="225" cy="150" r="2" fill="#10b981"/>
+  <circle cx="200" cy="175" r="2" fill="#10b981"/>
+  <circle cx="175" cy="150" r="2" fill="#10b981"/>
+  
+  <!-- Center dot -->
+  <circle cx="200" cy="150" r="3" fill="#10b981"/>
+  
+  <!-- Speed lines -->
+  <path d="M140 120 L150 125" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M130 140 L140 145" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M130 160 L140 155" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M140 180 L150 175" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  
+  <path d="M260 120 L250 125" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M270 140 L260 145" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M270 160 L260 155" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M260 180 L250 175" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  
+  <!-- Lightning bolt for speed -->
+  <path d="M120 80 L110 95 L115 95 L105 110 L120 95 L115 95 Z" fill="#10b981" opacity="0.7"/>
+  <path d="M290 200 L280 215 L285 215 L275 230 L290 215 L285 215 Z" fill="#10b981" opacity="0.7"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="320" cy="100" r="4" fill="#10b981" opacity="0.5"/>
+  <circle cx="80" cy="220" r="6" fill="#10b981" opacity="0.4"/>
+  <circle cx="340" cy="200" r="3" fill="#10b981" opacity="0.6"/>
+  <circle cx="60" cy="100" r="5" fill="#10b981" opacity="0.3"/>
+</svg> 

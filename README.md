@@ -1,54 +1,54 @@
 # Finanqa Web
 
-A modern, responsive website for the Finanqa financial literacy platform. Built with Next.js 14, TypeScript, and Tailwind CSS.
+Finanqa finansal okuryazarlık platformu için modern ve duyarlı bir web sitesi. Next.js 14, TypeScript ve Tailwind CSS ile geliştirilmiştir.
 
-## Features
+## Özellikler
 
-- Modern, responsive design with Next.js 14 App Router
-- Client-side and Server-side components
-- Optimized for performance with built-in image optimization
-- Built with accessibility in mind
-- Mobile-first approach
-- SEO friendly
-- Custom color palette and branding
+- Next.js 14 App Router ile modern ve duyarlı tasarım
+- İstemci ve sunucu tarafı bileşenler
+- Yerleşik görüntü optimizasyonu ile performans odaklı
+- Erişilebilirlik düşünülerek tasarlanmış
+- Mobil öncelikli yaklaşım
+- SEO dostu
+- Özel renk paleti ve marka kimliği
 
-## Prerequisites
+## Gereksinimler
 
-- Node.js 18.x or later
-- npm 9.x or later
+- Node.js 18.x veya daha yeni
+- npm 9.x veya daha yeni
 
-### Windows Users (PowerShell)
-If you encounter execution policy errors when running npm commands, you can resolve this by running one of these commands in PowerShell:
+### Windows Kullanıcıları (PowerShell)
+Eğer npm komutlarını çalıştırırken yürütme politikası hataları alıyorsanız, PowerShell'de aşağıdaki komutlardan birini çalıştırarak çözebilirsiniz:
 
 ```powershell
-# Option 1: Temporary (Session Only)
+# Seçenek 1: Geçici (Sadece Oturum İçin)
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
-# Option 2: Permanent (Requires Admin)
+# Seçenek 2: Kalıcı (Yönetici Gerektirir)
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ```
 
-## Getting Started
+## Başlangıç
 
-1. Clone the repository:
+1. Depoyu klonlayın:
 ```bash
-git clone https://github.com/yourusername/finanqa-web.git
+git clone https://github.com/emrecandogu/finanqa-web.git
 cd finanqa-web
 ```
 
-2. Install dependencies:
+2. Bağımlılıkları yükleyin:
 ```bash
 npm install
 ```
 
-3. Start the development server:
+3. Geliştirme sunucusunu başlatın:
 ```bash
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
 
-## Project Structure
+## Proje Yapısı
 
 ```
 finanqa-web/
@@ -78,37 +78,37 @@ finanqa-web/
 └── README.md
 ```
 
-## Available Scripts
+## Kullanılabilir Komutlar
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm start` - Start production server
-- `npm run lint` - Run ESLint
-- `npm run clean` - Clean Next.js cache and build files
+- `npm run dev` - Geliştirme sunucusunu başlatır
+- `npm run build` - Üretim için derleme yapar
+- `npm start` - Üretim sunucusunu başlatır
+- `npm run lint` - ESLint çalıştırır
+- `npm run clean` - Next.js önbelleğini ve derleme dosyalarını temizler
 
-## Troubleshooting
+## Sorun Giderme
 
-If you encounter any issues:
+Herhangi bir sorunla karşılaşırsanız:
 
-1. Clear Next.js cache:
+1. Next.js önbelleğini temizleyin:
 ```bash
 npm run clean
 ```
 
-2. Remove node_modules and reinstall:
+2. node_modules klasörünü kaldırın ve yeniden yükleyin:
 ```bash
 rm -rf node_modules
 npm install
 ```
 
-3. Rebuild the project:
+3. Projeyi yeniden derleyin:
 ```bash
 npm run build
 ```
 
-## Image Placeholders
+## Görüntü Yer Tutucuları
 
-The following image placeholders need to be replaced with actual images:
+Aşağıdaki görüntü yer tutucuları gerçek görüntülerle değiştirilmelidir:
 
 - `/images/hero-placeholder.jpg`
 - `/images/about-placeholder.jpg`
@@ -127,21 +127,25 @@ The following image placeholders need to be replaced with actual images:
 - `/images/linkedin.svg`
 - `/images/instagram.svg`
 
-## Color Palette
+## Renk Paleti
 
-- Primary Green: #005652
-- Light Green: #17f187
-- Cream: #f9f9f3
-- Secondary Green: #c8f567
+- Ana Yeşil: #005652
+- Açık Yeşil: #17f187
+- Krem: #f9f9f3
+- İkincil Yeşil: #c8f567
 
-## Contributing
+## Katkıda Bulunma
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Depoyu çatallayın
+2. Özellik dalınızı oluşturun (`git checkout -b feature/amazing-feature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
+4. Dalınıza push yapın (`git push origin feature/amazing-feature`)
+5. Bir Pull Request açın
 
-## License
+## Lisans
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
+
+## Notlar
+
+- Proje yayınlanmadan önce geçici şifreleme kullanımı kaldırılmalıdır. Lütfen güvenlik önlemlerini gözden geçirin ve gerekli değişiklikleri yapın.

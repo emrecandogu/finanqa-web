@@ -1,0 +1,197 @@
+[
+  {
+    "id": 201,
+    "question": "Bütçe nedir?",
+    "options": [
+      "Gelir ve giderlerin planlanması",
+      "Sadece gelirlerin planlanması",
+      "Sadece giderlerin planlanması",
+      "Tasarruf planlaması"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bütçe, kişi veya kurumların gelir ve giderlerini planlamasıdır.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 202,
+    "question": "Acil durum fonu nedir?",
+    "options": [
+      "Beklenmedik harcamalar için biriktirilen para",
+      "Yatırım amaçlı bir fon",
+      "Emeklilik fonu",
+      "Kredi kartı limiti"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acil durum fonu, beklenmedik harcamalar veya gelir kaybı durumunda kullanılmak üzere biriktirilen paradır.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 203,
+    "question": "Tasarruf nedir?",
+    "options": [
+      "Gelirin harcanmayan kısmı",
+      "Gelirin tamamı",
+      "Borçlanma",
+      "Yatırım getirisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tasarruf, gelirin harcanmayan kısmıdır ve gelecekteki ihtiyaçlar için biriktirilir.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 204,
+    "question": "Kredi notu nedir?",
+    "options": [
+      "Bir kişinin borç ödeme alışkanlıklarını gösteren puan",
+      "Bir bankanın karı",
+      "Bir ülkenin dış borcu",
+      "Bir yatırım fonu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kredi notu, bir kişinin borç ödeme alışkanlıklarını ve finansal geçmişini gösteren puandır.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 205,
+    "question": "Emeklilik planlaması neden önemlidir?",
+    "options": [
+      "Gelecekteki finansal güvenlik için",
+      "Sadece vergi avantajı için",
+      "Bankaların karı için",
+      "Devletin zorunlu kıldığı için"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Emeklilik planlaması, gelecekteki finansal güvenliği sağlamak için önemlidir.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 206,
+    "question": "Kredi kartı kullanırken en önemli kural nedir?",
+    "options": [
+      "Aylık bakiyeyi tam olarak ödemek",
+      "Minimum ödeme yapmak",
+      "Sadece nakit avans kullanmak",
+      "Limiti sonuna kadar kullanmak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kredi kartı kullanırken aylık bakiyeyi tam olarak ödemek faiz ödemekten kaçınmanın yoludur.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 207,
+    "question": "50/30/20 kuralı nedir?",
+    "options": [
+      "Gelirin %50'si ihtiyaçlar, %30'u istekler, %20'si tasarruf",
+      "Gelirin %50'si tasarruf, %30'u ihtiyaçlar, %20'si istekler",
+      "Gelirin %50'si yatırım, %30'u harcama, %20'si borç",
+      "Gelirin %50'si vergi, %30'u kira, %20'si yemek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "50/30/20 kuralı, gelirin %50'sini ihtiyaçlara, %30'unu isteklere, %20'sini tasarrufa ayırmayı önerir.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 208,
+    "question": "Sigorta neden önemlidir?",
+    "options": [
+      "Beklenmedik risklere karşı finansal koruma sağlar",
+      "Yatırım getirisi elde etmek için",
+      "Vergi avantajı sağlamak için",
+      "Bankaların zorunlu kıldığı için"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sigorta, beklenmedik risklere karşı finansal koruma sağlayan önemli bir araçtır.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 209,
+    "question": "Borç/gelir oranı nedir?",
+    "options": [
+      "Toplam borçların aylık gelire oranı",
+      "Aylık gelirin toplam varlıklara oranı",
+      "Tasarrufların gelire oranı",
+      "Harcamaların gelire oranı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Borç/gelir oranı, toplam borçların aylık gelire oranıdır ve finansal sağlığın göstergesidir.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 210,
+    "question": "Finansal hedef belirlemenin önemi nedir?",
+    "options": [
+      "Tasarruf ve harcama alışkanlıklarını yönlendirir",
+      "Sadece zenginler için gereklidir",
+      "Bankaların istediği bir durumdur",
+      "Vergi avantajı sağlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Finansal hedef belirleme, tasarruf ve harcama alışkanlıklarını doğru yönde yönlendirir.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 211,
+    "question": "Otomatik ödeme sisteminin avantajı nedir?",
+    "options": [
+      "Fatura ödemelerini unutmayı önler",
+      "Daha az para öder",
+      "Daha fazla faiz kazandırır",
+      "Vergi avantajı sağlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Otomatik ödeme sistemi, fatura ödemelerini unutmayı önler ve gecikme faizlerinden korur.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 212,
+    "question": "Kişisel finansal tabloda hangi bilgiler yer alır?",
+    "options": [
+      "Varlıklar, borçlar ve net değer",
+      "Sadece gelirler",
+      "Sadece giderler",
+      "Sadece tasarruflar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kişisel finansal tablo, varlıkları, borçları ve net değeri gösterir.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 213,
+    "question": "Enflasyonun kişisel finansa etkisi nedir?",
+    "options": [
+      "Paranın satın alma gücünü azaltır",
+      "Paranın satın alma gücünü artırır",
+      "Hiçbir etkisi yoktur",
+      "Sadece zenginleri etkiler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enflasyon, paranın satın alma gücünü azaltır ve finansal planlamayı etkiler.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 214,
+    "question": "Finansal okuryazarlık nedir?",
+    "options": [
+      "Para yönetimi konusunda bilgi ve beceri sahibi olmak",
+      "Sadece matematik bilmek",
+      "Sadece muhasebe bilmek",
+      "Sadece yatırım yapmak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Finansal okuryazarlık, para yönetimi konusunda bilgi ve beceri sahibi olmaktır.",
+    "category": "kisisel_finans"
+  },
+  {
+    "id": 215,
+    "question": "Bileşik faiz nedir?",
+    "options": [
+      "Faizin faiz getirmesi",
+      "Sadece ana paranın faiz getirmesi",
+      "Bankaların aldığı komisyon",
+      "Kredi faizi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bileşik faiz, faizin de faiz getirmesi durumudur ve uzun vadede büyük fark yaratır.",
+    "category": "kisisel_finans"
+  }
+] 

@@ -1,0 +1,197 @@
+[
+  {
+    "id": 101,
+    "question": "Hisse senedi nedir?",
+    "options": [
+      "Bir şirketin ortaklık payını temsil eden değerli kağıt",
+      "Bir ülkenin para birimi",
+      "Bir bankanın verdiği kredi",
+      "Bir yatırım fonu türü"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hisse senedi, bir şirketin ortaklık payını temsil eden menkul kıymettir.",
+    "category": "yatirim"
+  },
+  {
+    "id": 102,
+    "question": "Tahvil nedir?",
+    "options": [
+      "Sabit getirili borçlanma aracı",
+      "Bir şirketin ortaklık payı",
+      "Bir yatırım fonu",
+      "Bir döviz türü"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tahvil, devletin veya şirketlerin borçlanmak için çıkardığı sabit getirili menkul kıymettir.",
+    "category": "yatirim"
+  },
+  {
+    "id": 103,
+    "question": "Portföy çeşitlendirmesi neden önemlidir?",
+    "options": [
+      "Riskleri azaltmak için",
+      "Vergi avantajı sağlamak için",
+      "Daha fazla komisyon almak için",
+      "Likiditeyi artırmak için"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Portföy çeşitlendirmesi, yatırım riskini azaltmak için farklı varlıklara yatırım yapmayı ifade eder.",
+    "category": "yatirim"
+  },
+  {
+    "id": 104,
+    "question": "Vadeli mevduat nedir?",
+    "options": [
+      "Belirli bir süre sonunda faiz getirisi sağlayan banka ürünü",
+      "Hisse senedi yatırımı",
+      "Kısa vadeli borçlanma aracı",
+      "Altın yatırımı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka ürünüdür.",
+    "category": "yatirim"
+  },
+  {
+    "id": 105,
+    "question": "Yatırım fonu nedir?",
+    "options": [
+      "Birçok yatırımcının parasının bir araya getirilerek yönetildiği yatırım aracı",
+      "Bir şirketin karı",
+      "Bir ülkenin bütçesi",
+      "Bir bankanın kredisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yatırım fonu, birçok yatırımcının parasının bir araya getirilerek profesyonelce yönetildiği yatırım aracıdır.",
+    "category": "yatirim"
+  },
+  {
+    "id": 106,
+    "question": "Risk ve getiri arasındaki ilişki nedir?",
+    "options": [
+      "Yüksek risk, yüksek getiri potansiyeli",
+      "Yüksek risk, düşük getiri",
+      "Düşük risk, yüksek getiri",
+      "Risk ve getiri arasında ilişki yoktur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Genel olarak yüksek riskli yatırımlar daha yüksek getiri potansiyeli sunar.",
+    "category": "yatirim"
+  },
+  {
+    "id": 107,
+    "question": "Altın yatırımının avantajı nedir?",
+    "options": [
+      "Enflasyona karşı koruma sağlar",
+      "Yüksek likidite sunar",
+      "Sabit getiri garantisi verir",
+      "Vergi avantajı sağlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Altın, enflasyona karşı koruma sağlayan bir yatırım aracı olarak görülür.",
+    "category": "yatirim"
+  },
+  {
+    "id": 108,
+    "question": "Borsa endeksi nedir?",
+    "options": [
+      "Belirli hisse senetlerinin performansını ölçen gösterge",
+      "Bir şirketin hisse senedi fiyatı",
+      "Bankaların faiz oranı",
+      "Döviz kuru"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Borsa endeksi, belirli hisse senetlerinin genel performansını ölçen göstergedir.",
+    "category": "yatirim"
+  },
+  {
+    "id": 109,
+    "question": "Temettü nedir?",
+    "options": [
+      "Şirketlerin hissedarlarına dağıttığı kar payı",
+      "Hisse senedi fiyatındaki artış",
+      "Tahvil faizi",
+      "Yatırım fonu komisyonu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Temettü, şirketlerin elde ettikleri kardan hissedarlarına dağıttığı pay.",
+    "category": "yatirim"
+  },
+  {
+    "id": 110,
+    "question": "Gayrimenkul yatırımının avantajı nedir?",
+    "options": [
+      "Enflasyona karşı koruma ve kira geliri",
+      "Yüksek likidite",
+      "Düşük başlangıç sermayesi",
+      "Garantili getiri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gayrimenkul yatırımı enflasyona karşı koruma sağlar ve kira geliri elde etme imkanı sunar.",
+    "category": "yatirim"
+  },
+  {
+    "id": 111,
+    "question": "Dolar/TL paritesi yükselirse ne anlama gelir?",
+    "options": [
+      "Doların TL karşısında değer kazandığı",
+      "TL'nin dolar karşısında değer kazandığı",
+      "Her iki para biriminin eşit olduğu",
+      "Enflasyonun arttığı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dolar/TL paritesinin yükselmesi, doların TL karşısında değer kazandığını gösterir.",
+    "category": "yatirim"
+  },
+  {
+    "id": 112,
+    "question": "Kripto para nedir?",
+    "options": [
+      "Dijital şifreleme teknolojisi ile korunan sanal para",
+      "Bankaların çıkardığı dijital para",
+      "Devletin bastığı elektronik para",
+      "Kredi kartı ile yapılan ödeme"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kripto para, blockchain teknolojisi ve şifreleme ile korunan dijital para birimidir.",
+    "category": "yatirim"
+  },
+  {
+    "id": 113,
+    "question": "Yatırım yaparken en önemli faktör nedir?",
+    "options": [
+      "Risk toleransı ve yatırım hedefleri",
+      "Sadece yüksek getiri",
+      "Sadece düşük risk",
+      "Başkalarının tavsiyeleri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yatırım yaparken kişinin risk toleransı ve yatırım hedefleri en önemli faktörlerdir.",
+    "category": "yatirim"
+  },
+  {
+    "id": 114,
+    "question": "Borsa'da 'boğa piyasası' ne demektir?",
+    "options": [
+      "Fiyatların genel olarak yükseldiği dönem",
+      "Fiyatların genel olarak düştüğü dönem",
+      "Fiyatların sabit kaldığı dönem",
+      "Yüksek volatilitenin olduğu dönem"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Boğa piyasası, hisse senedi fiyatlarının genel olarak yükseldiği dönemdir.",
+    "category": "yatirim"
+  },
+  {
+    "id": 115,
+    "question": "Borsa'da 'ayı piyasası' ne demektir?",
+    "options": [
+      "Fiyatların genel olarak düştüğü dönem",
+      "Fiyatların genel olarak yükseldiği dönem",
+      "Fiyatların sabit kaldığı dönem",
+      "Düşük volatilitenin olduğu dönem"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ayı piyasası, hisse senedi fiyatlarının genel olarak düştüğü dönemdir.",
+    "category": "yatirim"
+  }
+] 

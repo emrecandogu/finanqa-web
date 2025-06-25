@@ -1,0 +1,31 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8fffe"/>
+  <circle cx="200" cy="150" r="80" fill="#10b981" opacity="0.1"/>
+  <circle cx="200" cy="150" r="60" fill="#10b981" opacity="0.2"/>
+  <circle cx="200" cy="150" r="40" fill="#10b981" opacity="0.3"/>
+  
+  <!-- Chart/Graph Icon -->
+  <rect x="150" y="120" width="100" height="60" rx="4" fill="white" stroke="#10b981" stroke-width="2"/>
+  
+  <!-- Chart bars -->
+  <rect x="165" y="155" width="8" height="15" fill="#10b981"/>
+  <rect x="178" y="145" width="8" height="25" fill="#10b981"/>
+  <rect x="191" y="135" width="8" height="35" fill="#10b981"/>
+  <rect x="204" y="140" width="8" height="30" fill="#10b981"/>
+  <rect x="217" y="130" width="8" height="40" fill="#10b981"/>
+  <rect x="230" y="125" width="8" height="45" fill="#10b981"/>
+  
+  <!-- Trend line -->
+  <path d="M165 160 L178 150 L191 140 L204 145 L217 135 L230 130" stroke="#10b981" stroke-width="2" fill="none"/>
+  
+  <!-- Dollar signs -->
+  <text x="120" y="100" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#10b981">$</text>
+  <text x="270" y="200" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#10b981">$</text>
+  <text x="320" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#10b981">$</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="80" r="4" fill="#10b981" opacity="0.6"/>
+  <circle cx="300" cy="220" r="6" fill="#10b981" opacity="0.4"/>
+  <circle cx="340" cy="100" r="3" fill="#10b981" opacity="0.8"/>
+  <circle cx="60" cy="200" r="5" fill="#10b981" opacity="0.5"/>
+</svg> 

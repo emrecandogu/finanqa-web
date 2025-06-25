@@ -1,0 +1,68 @@
+import { DictionaryCategory } from './types';
+
+export const dictionaryCategories: DictionaryCategory[] = [
+  {
+    id: 'cat-1',
+    name: 'Temel Finans',
+    slug: 'temel-finans',
+    description: 'Finansın temel kavramları ve günlük hayatta kullanılan terimler',
+    color: '#10b981',
+    icon: 'wallet',
+  },
+  {
+    id: 'cat-2',
+    name: 'Yatırım',
+    slug: 'yatirim',
+    description: 'Yatırım araçları, stratejiler ve portföy yönetimi',
+    color: '#3b82f6',
+    icon: 'trending-up',
+  },
+  {
+    id: 'cat-3',
+    name: 'Piyasalar',
+    slug: 'piyasalar',
+    description: 'Finansal piyasalar, borsa ve ticaret terimleri',
+    color: '#8b5cf6',
+    icon: 'bar-chart',
+  },
+  {
+    id: 'cat-4',
+    name: 'Makroekonomi',
+    slug: 'makroekonomi',
+    description: 'Makroekonomik göstergeler ve ekonomi politikaları',
+    color: '#f59e0b',
+    icon: 'globe',
+  },
+  {
+    id: 'cat-5',
+    name: 'Bankacılık',
+    slug: 'bankacilik',
+    description: 'Bankacılık ürünleri, krediler ve finansal hizmetler',
+    color: '#ef4444',
+    icon: 'building',
+  },
+  {
+    id: 'cat-6',
+    name: 'Kripto Para',
+    slug: 'kripto-para',
+    description: 'Dijital varlıklar, blockchain ve kripto para terimleri',
+    color: '#f97316',
+    icon: 'bitcoin',
+  },
+  {
+    id: 'cat-7',
+    name: 'Sigorta',
+    slug: 'sigorta',
+    description: 'Sigorta ürünleri, risk yönetimi ve koruma araçları',
+    color: '#06b6d4',
+    icon: 'shield',
+  },
+  {
+    id: 'cat-8',
+    name: 'Vergi',
+    slug: 'vergi',
+    description: 'Vergi mevzuatı, vergi türleri ve vergi planlaması',
+    color: '#84cc16',
+    icon: 'receipt',
+  },
+]; 
